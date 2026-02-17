@@ -49,8 +49,9 @@ body.dark-mode .navbar {
 
 /* Hero */
 .hero {
-    padding: 100px 8%;
-    text-align: center;
+    background: linear-gradient(135deg, #f3e7ff, #fef6f9);
+    border-radius: 20px;
+    margin: 30px;
 }
 
 .hero h1 {
@@ -104,3 +105,4 @@ footer {
     padding: 40px;
     background: #eee;
 }
+

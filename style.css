@@ -23,6 +23,16 @@ body.dark-mode .navbar {
     background: #1a1a1a;
 }
 
+body.dark-mode footer {
+    background: #1a1a1a;
+    color: #ddd;
+}
+
+body.dark-mode footer a {
+    color: #9a8cff;
+}
+
+
 /* Navbar */
 .navbar {
     display: flex;
@@ -117,5 +127,6 @@ footer a {
 footer a:hover {
     text-decoration: underline;
 }
+
 
 
